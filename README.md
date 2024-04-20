@@ -1,3 +1,7 @@
+# Juego de tarjetas de memoria
+Esta es una versión del juego Memory-Game hecha para el curso de Programación Hipermedia.
+
+
 # Memory-Game
 This is a memory game, created using HTML, CSS, and JavaScript.
 Rules of playing are:- 
