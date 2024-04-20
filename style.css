@@ -9,6 +9,8 @@ body {
     box-sizing: border-box;
     background-color: rgb(50, 119, 248);
     display: flex;
+    background-image: url('https://t3.ftcdn.net/jpg/05/26/85/48/360_F_526854857_FFbu7oodabYdX5GaePaE6VrE0I5xGzYR.jpg');
+    background-size: cover;
 }
 .board{
     height: 480px;
@@ -76,7 +78,7 @@ body {
 .card {
     height: 100px;
     width: 91px;
-    background-color: rgb(50, 119, 248, 0.651);
+    background-color: rgba(130, 127, 0, 0.651);
     border-radius: 10px;
     margin: 0px 10px;
     position: relative;
